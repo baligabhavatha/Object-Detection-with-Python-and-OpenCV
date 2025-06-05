@@ -14,38 +14,13 @@ Launch the notebook instantly in Colab:
 
 ---
 
-## Clone the Repository
+## ⚙️ Setup & Requirements
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
+You don't need to install anything manually!
 
-## Requirements
-```bash
-pip install -r requirements.txt
-```
-Or manually install the key libraries:
-```bash
-pip install opencv-python numpy matplotlib
-```
+All steps — including environment setup, library installation, and usage instructions — are already included in the Colab notebook.
 
-Other potential libraries (depending on your implementation):
-
-torch
-torchvision
-ultralytics (for YOLOv5 or YOLOv8)
-PIL / pillow
-
-## Project Structure
-
-your-repo-name/
-├── spark_plug_detection.ipynb
-├── README.md
-├── requirements.txt
-└── /images
-    ├── sample1.jpg
-    └── ...
+Just open it, follow the cells in order, and you're good to go.
 
 ## Features
 Detect spark plugs in static images
