@@ -37,7 +37,7 @@ torchvision
 ultralytics (for YOLOv5 or YOLOv8)
 PIL / pillow
 
-##Project Structure
+## Project Structure
 
 your-repo-name/
 ├── spark_plug_detection.ipynb
@@ -47,7 +47,7 @@ your-repo-name/
     ├── sample1.jpg
     └── ...
 
-##Features
+## Features
 Detect spark plugs in static images
 
 Draw bounding boxes around detected components
@@ -56,10 +56,10 @@ Visualize detections step-by-step
 
 Easily adaptable to other small object types
 
-##License
+## License
 This project is open-source under the MIT License.
 
-##Contributions
+## Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
 
 ##Contact
